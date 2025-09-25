@@ -573,7 +573,7 @@ SkysportsArena,https://sib.sld.tw/Smart.php?id=tiankongarena
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
 
 🇯🇵日本,#genre#
-NHKG,https://mt01.utako.moe/NHK_G/tracks-v1/index.fmp4.m3u8
+NHKG,https://mt01.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
 NHKBS,https://mt01.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
 NHKBS4K,https://mt01.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
 NHKE,https://mt01.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
