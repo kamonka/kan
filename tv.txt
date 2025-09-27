@@ -90,6 +90,8 @@ BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 CNN,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 CNN,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+CNN,https://epg.freejptv.com/ph.php?&isp=1&id=cs16
+BBC,https://epg.freejptv.com/ph.php?&isp=1&id=cs15
 
 🇹🇼台港新闻,#genre#
 镜新闻,http://t.061899.xyz/tl/js/js.php?id=jxw
@@ -573,7 +575,75 @@ SkysportsArena,https://sib.sld.tw/Smart.php?id=tiankongarena
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
 
 🇯🇵日本,#genre#
-NHKG,https://mt01.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd01
+NHKBS,https://epg.freejptv.com/ph.php?&isp=1&id=bs11
+NHKBS4K,https://epg.freejptv.com/ph.php?&isp=1&id=bs01
+NHKE,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd02
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd03
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd04
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd05
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd06
+テレビ東京,,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd07
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=gd01
+NHKE,https://epg.freejptv.com/ph.php?&isp=1&id=gd02
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gd03
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=gd04
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gd05
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=gd06
+テレビ東京,https://epg.freejptv.com/ph.php?&isp=1&id=gd07
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=gx06
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx04
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=gx01
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=gx02
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx03
+テレビ東京,https://epg.freejptv.com/ph.php?&isp=1&id=gx05
+サンテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx07
+BS日レビ,https://epg.freejptv.com/ph.php?&isp=1&id=bs02
+BS朝日,https://epg.freejptv.com/ph.php?&isp=1&id=bs03
+BSTBS,https://epg.freejptv.com/ph.php?&isp=1&id=bs04
+BSテレ東,,https://epg.freejptv.com/ph.php?&isp=1&id=bs05
+BSフジ,https://epg.freejptv.com/ph.php?&isp=1&id=bs06
+TOKYOMX1,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd08
+TOKYOMX1,https://epg.freejptv.com/ph.php?&isp=1&id=gd08
+フジテレビNext,https://epg.freejptv.com/ph.php?&isp=1&id=cs26
+日テレジータス,https://epg.freejptv.com/ph.php?&isp=1&id=cs02
+TBSNews,https://epg.freejptv.com/ph.php?&isp=1&id=cs11
+ディスカバリー,https://epg.freejptv.com/ph.php?&isp=1&id=cs08
+ナショジオ,https://epg.freejptv.com/ph.php?&isp=1&id=cs10
+ヒストリー,https://epg.freejptv.com/ph.php?&isp=1&id=cs08
+旅チャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=cs12
+日本映画,https://epg.freejptv.com/ph.php?&isp=1&id=bs23
+東映,https://epg.freejptv.com/ph.php?&isp=1&id=cs27
+衛星劇場,https://epg.freejptv.com/ph.php?&isp=1&id=cs22
+ムービープラス,https://epg.freejptv.com/ph.php?&isp=1&id=cs14
+スターチャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=bs08
+WOWOWPrime,https://epg.freejptv.com/ph.php?&isp=1&id=bs12
+WOWOWCinema,https://epg.freejptv.com/ph.php?&isp=1&id=bs07
+WOWOWLive,https://epg.freejptv.com/ph.php?&isp=1&id=bs20
+JCOMBS,https://epg.freejptv.com/ph.php?&isp=1&id=bs31
+宝塚歌劇,https://epg.freejptv.com/ph.php?&isp=2&id=cs28
+時代劇,https://epg.freejptv.com/ph.php?&isp=1&id=cs04
+ファミリー劇場,https://epg.freejptv.com/ph.php?&isp=1&id=cs20
+ホームドラマ,https://epg.freejptv.com/ph.php?&isp=1&id=cs05
+MondoTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs21
+JSport1,https://epg.freejptv.com/ph.php?&isp=1&id=bs18
+JSport2,https://epg.freejptv.com/ph.php?&isp=1&id=bs19
+JSport3,https://epg.freejptv.com/ph.php?&isp=1&id=bs21
+JSport4,https://epg.freejptv.com/ph.php?&isp=1&id=bs22
+グリーンチャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=bs14
+スカイA,https://epg.freejptv.com/ph.php?&isp=1&id=cs01
+スカイA,https://epg.freejptv.com/ph.php?&isp=1&id=cs01
+GAORA,https://epg.freejptv.com/ph.php?&isp=1&id=cs17
+釣りビジョン,https://epg.freejptv.com/ph.php?&isp=1&id=bs25
+ゴルフネットワーク,https://epg.freejptv.com/ph.php?&isp=1&id=cs03
+スペースシャワー,https://epg.freejptv.com/ph.php?&isp=1&id=bs26
+MusicJapan,https://epg.freejptv.com/ph.php?&isp=1&id=cs06
+歌謡ポップス,https://epg.freejptv.com/ph.php?&isp=1&id=cs13
+MTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs18
+LaLaTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs19
+銀河,https://epg.freejptv.com/ph.php?&isp=2&id=cs29
+
+NHKG,https://mt01.utako.moe/NHK_G/tracks-v1a1/index.fmp4.m3u8
 NHKBS,https://mt01.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
 NHKBS4K,https://mt01.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
 NHKE,https://mt01.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
@@ -1289,12 +1359,6 @@ CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 
 
 🇲🇰测试_66,#genre#
-惊艳电影,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-彩虹电影,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 松视1,http://iptv.4666888.xyz/iptv.php?id=20143 
 松视2,http://iptv.4666888.xyz/iptv.php?id=20144 
 松视3,http://iptv.4666888.xyz/iptv.php?id=20145 
@@ -1309,6 +1373,12 @@ Happy,http://iptv.4666888.xyz/iptv.php?id=20151
 日本AV,http://iptv.4666888.xyz/iptv.php?id=20155 
 日本AV,http://iptv.4666888.xyz/iptv.php?id=20158 
 PIGOO,http://iptv.4666888.xyz/iptv.php?id=20153 
+惊艳电影,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+彩虹电影,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
 IPPA,http://proeuropatv.xyz:8080/play/link/b679771f-e26d-4a5c-85ff-3c1bd6216990/eyJpdiI6IkFlcHZ3MWhTWlNQaUpDY3VEMlhrUFE9PSIsInZhbHVlIjoiNWhMQzdNWVhCaFRIUWpibzlGU2ZDUjJ6RnFOaFZBdnZGZTZyOS9ydTRPczRRSEVMek5LMDNHbnVENDA4OGtnQlc4TVZUWUxlZWI5eTQ3clB5U3liQ0E9PSIsIm1hYyI6IjFiM2JhYzQ3MzVkYWI2NDNiMzAwYjM5YmE2MjViNmQyM2U5ZDVhNmQ2YjgxM2YzZTBjYWUwNzlmOGUzMzVlZDUiLCJ0YWciOiIifQ==.ts?useIntId=0#http://proeuropatv.xyz:8080/play/link/622447bd-10c0-4a98-829d-c8fd6b5a47d0/eyJpdiI6IkFlcHZ3MWhTWlNQaUpDY3VEMlhrUFE9PSIsInZhbHVlIjoiNWhMQzdNWVhCaFRIUWpibzlGU2ZDUjJ6RnFOaFZBdnZGZTZyOS9ydTRPczRRSEVMek5LMDNHbnVENDA4OGtnQlc4TVZUWUxlZWI5eTQ3clB5U3liQ0E9PSIsIm1hYyI6IjFiM2JhYzQ3MzVkYWI2NDNiMzAwYjM5YmE2MjViNmQyM2U5ZDVhNmQ2YjgxM2YzZTBjYWUwNzlmOGUzMzVlZDUiLCJ0YWciOiIifQ==.ts?useIntId=0
 
