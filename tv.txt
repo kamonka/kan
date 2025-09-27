@@ -94,73 +94,13 @@ CNN,https://epg.freejptv.com/ph.php?&isp=1&id=cs16
 BBC,https://epg.freejptv.com/ph.php?&isp=1&id=cs15
 
 🇹🇼台港新闻,#genre#
-镜新闻,http://t.061899.xyz/tl/js/js.php?id=jxw
-镜新闻,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
-民视新闻,http://t.061899.xyz/tl/js/js.php?id=msxwt1
-寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-寰宇新闻台湾,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
-台视新闻,http://t.061899.xyz/tl/js/js.php?id=tsxw
-华视新闻,http://t.061899.xyz/tl/js/js.php?id=hsxw
-台视财经,http://t.061899.xyz/tl/js/js.php?id=tscj
-中视新闻,http://t.061899.xyz/tl/js/js.php?id=zsxw
-非凡新闻,http://t.061899.xyz/tl/js/js.php?id=ffxw
-东森新闻,http://t.061899.xyz/tl/js/js.php?id=dsxw
-中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-东森新闻,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-中视新闻,http://t.061899.xyz/tl/js/js.php?id=zsxwt
-台视新闻,http://t.061899.xyz/tl/js/js.php?id=tsxwt
-三立新闻,http://t.061899.xyz/tl/js/js.php?id=slxwt
-民视新闻,http://t.061899.xyz/tl/js/js.php?id=msxwt
-华视新闻,http://t.061899.xyz/tl/js/js.php?id=hsxwt
-寰宇新闻,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-寰宇新闻台湾,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
-靖天资讯,http://t.061899.xyz/tl/js/js.php?id=jtzxt
-TVBS新闻,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
-中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxw
-TVBS新闻,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-无线新闻,http://tl.061833.xyz/tl/null-11
-HOY资讯,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
-NOW新闻,http://t.061899.xyz/tl/js/js.php?id=nowxwt
-NOW直播,http://t.061899.xyz/tl/js/js.php?id=nowzbt
-无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-有线新闻,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
-
-年代新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn
-民视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
-台视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
-中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
-中视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ca73a13c37
-寰宇新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
-非凡新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn
-东森新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
-TVBS新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
-无线新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=inews_twn
-
-年代新闻,https://sib.sld.tw/Smart.php?id=niandainews_twn
-民视新闻,https://sib.sld.tw/Smart.php?id=ftvnew_taiwan
-台视新闻,https://sib.sld.tw/Smart.php?id=ttvnews_twn
-中天新闻,https://sib.sld.tw/Smart.php?id=ctinews
-中视新闻,https://sib.sld.tw/Smart.php?id=ca73a13c37
-寰宇新闻,https://sib.sld.tw/Smart.php?id=huanyuxinwen_twn
-非凡新闻,https://sib.sld.tw/Smart.php?id=feifannews_twn
-东森新闻,https://sib.sld.tw/Smart.php?id=ettvnews
-TVBS新闻,https://sib.sld.tw/Smart.php?id=tvbs_n
-无线新闻,https://sib.sld.tw/Smart.php?id=inews_twn
-凤凰资讯,http://m.061899.xyz/mg/fhzx
-
-HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+台视新闻,http://123.51.136.80:8314/0.ts
+民视台湾,http://123.51.136.80:8311/0.ts
+中视新闻,http://123.51.136.80:8302/0.ts
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+Now新闻,http://cdn.163189.xyz/163189/now 
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 
 
 
@@ -201,76 +141,43 @@ ZDF,http://supersonictv.live:8080/roelle0923/roelle0923/84702
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 
 🇭🇰台港综合,#genre#
-公视,http://iptv.4666888.xyz/iptv.php?id=20185
-公视,http://iptv.4666888.xyz/iptv.php?id=20185
-台视,http://iptv.4666888.xyz/iptv.php?id=20186
-民视,http://iptv.4666888.xyz/iptv.php?id=20182
-东森,http://iptv.4666888.xyz/iptv.php?id=20206
-中视,http://iptv.4666888.xyz/iptv.php?id=20183
-华视,http://iptv.4666888.xyz/iptv.php?id=20184
-
-台视,http://t.061899.xyz/tl/js/js.php?id=ts
-民视,http://t.061899.xyz/tl/js/js.php?id=ms
-中视,http://t.061899.xyz/tl/js/js.php?id=zs
-华视,http://t.061899.xyz/tl/js/js.php?id=hs
+公视,http://123.51.136.80:8305/0.ts
+民视,http://123.51.136.80:8308/0.ts
+台视,http://123.51.136.80:8313/0.ts
+中视,http://123.51.136.80:8301/0.ts
+华视,http://123.51.136.80:8317/0.ts
+民视,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+年代,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+民视,http://bxtv.3a.ink/api.php?id=minshi
+台视,http://bxtv.3a.ink/api.php?id=taishi
+中视,http://bxtv.3a.ink/api.php?id=zhongshi
+华视,http://bxtv.3a.ink/api.php?id=huashi
+TVBS,http://bxtv.3a.ink/api.php?id=tvbs
+TVBS,http://t.061899.xyz/tl/js/js.php?id=tvbshd
 中视,http://t.061899.xyz/tl/js/js.php?id=hdzs
 台视,http://t.061899.xyz/tl/js/js.php?id=hdts
 民视,http://t.061899.xyz/tl/js/js.php?id=hdms
 华视,http://t.061899.xyz/tl/js/js.php?id=hdhs
-TVBS,http://t.061899.xyz/tl/js/js.php?id=tvbshd1
-TVBS,http://t.061899.xyz/tl/js/js.php?id=tvbshd
-翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-明珠,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-明珠,http://tl.061833.xyz/tl/null-12
-翡翠,http://tl.061833.xyz/tl/null
-翡翠,http://tl.061833.xyz/tl/null-2
+台视,http://t.061899.xyz/tl/js/js.php?id=ts
+民视,http://t.061899.xyz/tl/js/js.php?id=ms
+中视,http://t.061899.xyz/tl/js/js.php?id=zs
+华视,http://t.061899.xyz/tl/js/js.php?id=hs
 
-公视,https://sib.sld.tw/Smart.php?id=ctv_taiwan
-民视,https://sib.sld.tw/Smart.php?id=ftvhd_taiwan
-中天,https://sib.sld.tw/Smart.php?id=ctizhonghe
-三立,https://sib.sld.tw/Smart.php?id=sanlizhonghe
-东森,https://sib.sld.tw/Smart.php?id=ettvzhonghe
-TVBS,https://sib.sld.tw/Smart.php?id=tvbs
-ELTA,https://sib.sld.tw/Smart.php?id=eltazonghe
-翡翠,https://sib.sld.tw/Smart.php?id=Tvbjade
-翡翠,https://sib.sld.tw/Smart.php?id=Jade_xue
-翡翠,https://sib.sld.tw/Smart.php?id=jade_twn
-明珠,https://sib.sld.tw/Smart.php?id=pearl_twn
-凤凰卫视,https://sib.sld.tw/Smart.php?id=tvbcaijing_twn
-凤凰卫视,https://sib.sld.tw/Smart.php?id=phoenixtv_hd
-VIUTV6,https://sib.sld.tw/Smart.php?id=viusix_twn
-VIUTV,https://sib.sld.tw/Smart.php?id=viu1_twn
-TVB星河,https://sib.sld.tw/Smart.php?id=Xinhe
-TVB星河,https://sib.sld.tw/Smart.php?id=tvbxinhe_twn
-RTHK32,https://sib.sld.tw/Smart.php?id=rhk32_twn
-RTHK31,https://sib.sld.tw/Smart.php?id=rhk31_twn
-HOY78,https://sib.sld.tw/Smart.php?id=hoycaijing_twn
-凤凰卫视,http://m.061899.xyz/mg/fhzw
-
-HOYTV,http://t.061899.xyz/tl/js/js.php?id=hoytv
-ViuTV,http://t.061899.xyz/tl/js/js.php?id=viutv
-ViuTV6,http://t.061899.xyz/tl/js/js.php?id=6viutv
-凤凰卫视,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰卫视,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-
-公视,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv_taiwan
-民视,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvhd_taiwan
-中天,https://pixman.mytvsuper.com.mp/Smart.php?id=ctizhonghe
-三立,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlizhonghe
-东森,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvzhonghe
-TVBS,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs
-ELTA,https://pixman.mytvsuper.com.mp/Smart.php?id=eltazonghe
-翡翠,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbjade
-翡翠,https://pixman.mytvsuper.com.mp/Smart.php?id=Jade_xue
-翡翠,https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
-明珠,https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_twn
-VIUTV,https://pixman.mytvsuper.com.mp/Smart.php?id=viu1_twn
-VIUTV6,https://pixman.mytvsuper.com.mp/Smart.php?id=viusix_twn
-凤凰卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
-凤凰卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbcaijing_twn
-RTHK32,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk32_twn
-RTHK31,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk31_twn
-HOY78,https://pixman.mytvsuper.com.mp/Smart.php?id=hoycaijing_twn
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 
 
 🇯🇪纪实人文,#genre#
