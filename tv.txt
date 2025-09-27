@@ -263,7 +263,8 @@ VIU剧集,http://iptv.4666888.xyz/iptv2A.php?id=85
 🇲🇾新马泰印#genre#
 
 🇯🇲体育,#genre#
-TOROS,http://theaztech.com:80/Natasha1/Natasha1/27277
+TOROS,http://tv.masterplaytv.club:8080/carlosgiraldo2211/1c89df35f064/8246
+
 TOROS,http://theaztech.com:80/Nelly1/Nelly1/114358
 TOROS,http://31.43.191.125:8080/VIP01799172590935697/84080992cac5/631
 TOROS,http://31.43.191.125:8080/VIP01799172590935697/84080992cac5/37678
